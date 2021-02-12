@@ -1,0 +1,8 @@
+
+ #Searching
+O(n) -- takes n number of steps
+O(n/2) -- takes half number of steps
+O(1) -- Constant steps best case
+
+
+
